@@ -3,6 +3,6 @@ public class Ejemplo1 {
 		System.out.println("Hola mundo");
 		String nombre = "David";
 		System.out.println("Mi nombre es -> " + nombre);
-		// Esto es un comentario
+		System.out.println("La suman de 2 y 3 es " + (2+3));
 	}
 }
