@@ -3,5 +3,6 @@ public class Ejemplo1 {
 		System.out.println("Hola mundo");
 		String nombre = "David";
 		System.out.println("Mi nombre es -> " + nombre);
+		// Esto es un comentario
 	}
 }
